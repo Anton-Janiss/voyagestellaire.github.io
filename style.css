@@ -1,0 +1,270 @@
+
+body {
+
+	margin: 0;
+	font-family: 'Open Sans', sans-serif;
+}
+
+
+.logo { 
+
+	height: 100px;
+
+ }
+
+.menu {
+
+	display: flex;
+	justify-content: space-between;
+  	align-items: center;
+  	padding: 50px 50px;
+  	height: 30px;
+
+}
+
+.bouton {
+
+	justify-content: space-around;
+	width: 50%;
+	display: flex;
+	color: #1c278e;
+	margin-left: 70px;
+	text-decoration: none;
+
+}
+.contenant {
+
+	background-image: url(https://trustmyscience.com/wp-content/uploads/2017/01/totalit%C3%A9-univers-observable-titre.jpg);
+	background-size: cover; 
+  	height: 120vh;
+  	margin: 0;
+  	padding-bottom: 150px;
+ 	
+}
+
+
+.titre1 {  
+	color: white;
+	font-size: 100px;
+	text-align: center;
+	padding-top: 14%;
+
+ }
+
+.titre2 { 
+	color: white;
+	font-size: 20px;
+	text-align: center;
+	margin-top: 120px;
+	padding-bottom: 50px;
+
+}
+
+.tellurique {
+
+	height: 170px;
+}
+
+.gazeuse {
+
+	height: 170px;
+}
+
+.satellite1 {
+
+	height: 170px;
+}
+
+
+#VOYAGE {
+
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: black;
+	padding: 100px;
+	font-size: 20px;
+}
+
+	
+#SPACEY {
+
+	padding: 150px;
+	margin-top: -150px;
+	text-align: center;
+	background-color: black;
+	color: white;
+	border: 50px 30px 50px 30px;
+	font-style: oblique;
+	font-size: 30px;
+	display: flex;
+	justify-content: space-between;
+}
+
+
+.presentation {
+
+font-size: 20px;
+margin-top: 40px;
+margin-left: 50px;
+
+
+}
+
+.elenmust {
+
+	 text-decoration: none;
+	  height: 230px;
+
+}
+
+#FLOTTE {
+	
+	display: flex;
+	justify-content: space-around;
+	padding-bottom: 50px;
+	padding-top: 150px;
+	text-align: center;
+	background-color: black;
+	color: white;
+	border-color: white;
+	
+}
+
+#FLOTTE2 {
+ 	display: flex;
+	justify-content: space-around;
+	padding-bottom: 50px;
+	padding-top: 150px;
+	text-align: center;
+	background-color: black;
+	color: white;
+	border-color: white;
+
+}
+
+
+img {
+
+	height: 100px;
+	border-color: white;
+	border-style: solid;
+}
+
+
+#CONTACT {
+
+	padding: 80px;
+	display: flex;
+	justify-content: space-between;
+	font-weight: bolder;
+}
+
+.adresse {
+
+	border: 3px solid black;
+	padding: 80px; 
+	font-weight: bolder;
+
+
+}
+#after_submit {
+
+	height: 10px;
+}
+
+#formulaire {
+
+	border-image: 3px solid black;
+	margin: 10px 150px;
+	width: 20%;
+	display: flex; 
+	justify-content: space-between;
+}
+
+
+input {
+    border: 1px solid rgb(220, 219, 235);
+    border-radius: 4px;
+    font-size: 13px;
+    padding: 10px;
+    color: #000;
+    transition: all .15s ease-in;
+}
+
+input[type=email] {
+    width: 60%;
+}
+
+input[type=submit] {
+    background-color: rgb(53, 114, 210);
+    color: #fff;
+    font-weight: bold;
+    border: 1px solid transparent;
+}
+
+input[type=submit]::focus {
+    border: 1px solid #fff;
+}
+
+input:focus {
+    border-color: rgb(53, 114, 210);
+    box-shadow: 0px 0px 8px 2px rgba(53, 114, 210, .5);
+    outline: none;
+}
+
+input::placeholder {
+    color: #999;
+}
+
+#subscribe-result p {
+    margin-top: 35px;
+}
+
+.letter {
+
+	font-size: 20px;
+}
+
+
+
+footer {
+
+	
+	padding: 10px;
+	
+
+}
+
+.copyright {
+text-align: center;
+padding: 10px;
+	}
+
+
+
+.linkspaceyr {
+    float: right;
+    display: space-between;
+    width: 30px;
+    height: 30px;
+
+}
+
+.bouton {
+
+margin: auto;
+
+
+}
+
+.wrapper {
+
+	width: 20%;
+	margin-left: auto;
+    margin-right: auto;
+    padding-top: 20px;
+
+
+}
+
